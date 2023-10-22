@@ -1,6 +1,8 @@
 ###  introduction
 
-Powerful electron third party module, offering **100+ API** 
+在electron-egg依赖的ee-core基础上，根据自身需求修改的module, 提供了新的 **100+ API** 
+
+ee-core的说明文档：
 
 [introduction](https://www.kaka996.com/pages/85c531/)
 

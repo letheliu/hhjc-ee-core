@@ -1,12 +1,12 @@
 {
-  "name": "ee-core",
-  "version": "2.6.0",
-  "description": "ee core",
+  "name": "hhjc-ee-core",
+  "version": "2.6.1",
+  "description": "hhjc ee core",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "lethe",
   "license": "ISC",
   "bin": {
     "ee-core": "./bin/tools.js"
